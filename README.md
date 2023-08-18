@@ -11,7 +11,7 @@ Interesting mini-projects that i developed in my free time. This repository cont
   using two threads, one that supported the GUI, and one that calculated roll, pitch and yaw of the arduino and some I/O opperations.
 
 ## ML_practice
-3. Some Machine learning practice. And a stacked gradient boosed random tree model that was developed to classify different types
+3. A stacked gradient boosed random tree model that was developed to classify different types
    of soil, given geological data underneath NIS oil rigs.
    
 ## Double_pendulum
