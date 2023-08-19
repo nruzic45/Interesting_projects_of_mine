@@ -2,7 +2,7 @@
 Interesting mini-projects that i developed in my free time. This repository contains the following:
 
 ## Genetic_algorithm_two_body_V1.0
-1. A Genetic algorithm based algorithm, that was used to find an optimal solution for a model of
+1. A Genetic algorithm, that was used to find an optimal solution for a model of
   a two body problem. The two body problem was used to simulate a rocket flying to the moon from Earth.
 
 ## Drone_orientation_module
